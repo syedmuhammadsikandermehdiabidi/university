@@ -1,0 +1,51 @@
+*
+{
+    margin:0;
+    padding:0;
+    font-family:century Gothic;
+    background-attachment: fixed ;
+}
+body{
+}
+
+
+
+ul li{
+    display:inline-block;
+
+}
+ul li a{
+    text-decoration: none;
+ color:orange;
+ }
+ ul li a:hover{
+    background-color: while;
+    color:black;
+ }
+ ul{
+    float:right;
+    list-style-type: none;
+ }
+ 
+li{
+ 
+      text-decoration: none;
+      color:orange;
+      padding:5px 20px;
+}
+ li a:hover{
+   background-color: while;
+    color:black;
+ }
+ h1{
+   float: left;
+ }
+ h3{
+    text-align: center;
+ }
+ h2{
+    text-align: center;
+ }
+ button{
+    margin:5px 500px;
+ }
